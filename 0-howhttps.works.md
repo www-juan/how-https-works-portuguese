@@ -1,11 +1,11 @@
-# Как работает HTTPS 
+# Como HTTPS funciona
 
-Начать чтение
+Comece a ler
 
-# Как работает HTTPS ...в комиксах! 🌈 🎉 🍕
+# Como HTTPS funciona ...em quadrinhos  ! 🌈 🎉 🍕
 
-Вы когда нибудь задумывались зачем иконка зеленого замка появляется в адресной строке вашего браузера? И почему это так важно? Мы тоже, и поэтому создали для вас комикс!
+Já se perguntou porque um ícone de um cadeado verde aparece na barra de endereços (URL) do seu navegador? E porque ele é importante? Nós também, e esse quadrinho é para você!
 
-Последуйте навстречу приключениям кота Сертификэта, птички Браузерберда, и ПеСеля, тогда, они объяснят, почему HTTPS так важен для будущего веба, и каким образом все это работает.
+Siga as aventuras do Certifigato, Browserbird e Compugtador enquanto eles explicacam porque HTTPS é crucial para o futuro da web e como tudo isso funciona junto.
 
-Не дайте плохим крабам достать вас (ну, вы поняли - в комиксе). Узнайте как работает HTTPS, и почему это необходимо для вашей конфиденциальности.
+Não deixe que bad crabs te peguem (você vai saber o que isso quer dizer no quadrinho). Venha conhecer o HTTPS e como isso é essencial para a sua privacidade.
